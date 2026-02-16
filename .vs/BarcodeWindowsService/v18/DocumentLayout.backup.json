@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|c:\\users\\msi\\desktop\\barcode\\barcodewindowsservice\\barcodewindowsservice\\barkodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barkodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BarcodeWindowsService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\barcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\barcodewindowsservice\\barcodereaderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barcodereaderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarkodeWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarkodeWorker.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarkodeWorker.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarkodeWorker.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarkodeWorker.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:49:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Service1.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\Service1.cs",
+              "ToolTip": "C:\\Users\\Msi\\OneDrive\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Service1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T15:47:03.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\packages.config",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\packages.config",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\packages.config",
+              "RelativeToolTip": "BarcodeWindowsService\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T14:56:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarcodeService.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeService.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeService.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeService.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:49:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\Program.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Program.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:49:12.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\NLog.config",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\NLog.config",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\NLog.config",
+              "RelativeToolTip": "BarcodeWindowsService\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T14:57:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Service1.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\Service1.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\Service1.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:58:18.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarcodeWindowsService",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T13:22:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarcodeReaderEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "ToolTip": "C:\\Users\\Msi\\Desktop\\Barcode\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:49:12.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

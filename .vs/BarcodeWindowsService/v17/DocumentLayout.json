@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|c:\\users\\musta\\source\\repos\\barcodewindowsservice\\barcodewindowsservice\\barcodereaderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barcodereaderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\barcodewindowsservice\\barcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|c:\\users\\musta\\source\\repos\\barcodewindowsservice\\barcodewindowsservice\\barkodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\barkodeworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BarcodeWindowsService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\barcodewindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|solutionrelative:barcodewindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3F4FD-926F-4554-8649-B926BC806C63}|BarcodeWindowsService\\BarcodeWindowsService.csproj|c:\\users\\musta\\source\\repos\\barcodewindowsservice\\barcodewindowsservice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarcodeReaderEngine.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeReaderEngine.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:26:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarcodeService.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeService.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeService.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeService.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:33:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarcodeWindowsService",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "RelativeToolTip": "BarcodeWindowsService\\BarcodeWindowsService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T13:22:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarkodeWorker.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarkodeWorker.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\BarkodeWorker.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\BarkodeWorker.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\BarkodeWorker.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:19:42.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "BarcodeWindowsService\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\BarcodeWindowsService\\BarcodeWindowsService\\Program.cs",
+              "RelativeToolTip": "BarcodeWindowsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:24:49.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
