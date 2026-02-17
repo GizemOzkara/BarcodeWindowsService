@@ -26,7 +26,7 @@ namespace BarcodeService
         private Timer _timer;
         private bool _isWorking;
         private ConcurrentQueue<string> _fileQueue = new ConcurrentQueue<string>();
-        private const int WorkerCount = 2;
+        private const int WorkerCount = 4;
 
         private readonly string _watchDir = @"C:\DemoSample";
         private readonly string _outputDir = @"C:\DemoOutputs";
